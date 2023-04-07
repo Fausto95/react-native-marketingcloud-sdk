@@ -1,7 +1,7 @@
 import * as React from 'react';
 
 import { StyleSheet, View, Text } from 'react-native';
-import * as LIB from 'react-native-marketingcloud-sdk';
+import * as LIB from '@fausto95/react-native-marketingcloud-sdk';
 
 export default function App() {
   React.useEffect(() => {
