@@ -1,6 +1,6 @@
 {
-  "name": "rn-marketingcloudsdk",
-  "version": "0.1.10-alpha",
+  "name": "react-native-marketingcloud-sdk",
+  "version": "0.1.1",
   "description": "React Native Marketing Cloud SDK",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
@@ -41,13 +41,13 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/Fausto95/rn-marketingcloudsdk",
+  "repository": "https://github.com/Fausto95/react-native-marketingcloud-sdk",
   "author": "Faustino Kialungila <Faustino.kialungila@gmail.com> (https://github.com/Fausto95)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Fausto95/rn-marketingcloudsdk/issues"
+    "url": "https://github.com/Fausto95/react-native-marketingcloud-sdk/issues"
   },
-  "homepage": "https://github.com/Fausto95/rn-marketingcloudsdk#readme",
+  "homepage": "https://github.com/Fausto95/react-native-marketingcloud-sdk#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },

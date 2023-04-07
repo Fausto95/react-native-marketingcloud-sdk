@@ -1,4 +1,4 @@
-# rn-marketingcloudsdk
+# react-native-marketingcloud-sdk
 
 Salesforce Marketing Cloud SDK for React Native
 
@@ -7,17 +7,17 @@ It uses Turbo Modules for new arch and Native Modules for old arch.
 ## Installation
 
 ```sh
-npm install rn-marketingcloudsdk
+npm install react-native-marketingcloud-sdk
 ```
 
 ```sh
-yarn add rn-marketingcloudsdk
+yarn add react-native-marketingcloud-sdk
 ```
 
 ## Usage
 
 ```js
-import * as RNMCSDK from 'rn-marketingcloudsdk';
+import * as RNMCSDK from 'react-native-marketingcloud-sdk';
 
 // ...
 
