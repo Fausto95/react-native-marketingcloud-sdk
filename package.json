@@ -1,6 +1,6 @@
 {
   "name": "@fausto95/react-native-marketingcloud-sdk",
-  "version": "0.1.2",
+  "version": "0.1.2-alpha.0",
   "description": "React Native Marketing Cloud SDK",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",

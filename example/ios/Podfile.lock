@@ -77,7 +77,7 @@ PODS:
     - hermes-engine/Pre-built (= 0.71.5)
   - hermes-engine/Pre-built (0.71.5)
   - libevent (2.1.12)
-  - MarketingCloudSDK (7.6.0)
+  - MarketingCloudSDK (8.0.13)
   - OpenSSL-Universal (1.1.1100)
   - RCT-Folly (2021.07.22.00):
     - boost
@@ -750,7 +750,7 @@ PODS:
     - React-logger (= 0.71.5)
     - React-perflogger (= 0.71.5)
   - react-native-marketingcloud-sdk (0.1.9-nightly):
-    - MarketingCloudSDK (~> 7.6)
+    - MarketingCloudSDK (~> 8.0.13)
     - RCT-Folly
     - RCTRequired
     - RCTTypeSafety
